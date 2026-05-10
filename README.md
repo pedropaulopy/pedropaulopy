@@ -1,1 +1,1 @@
-!(dogs.gif)
+![Dogs!](dogs.gif)
