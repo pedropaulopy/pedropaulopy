@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="dogs.gif" width="500">
+  <img src="ani_hunde" width="500">
 </p>
